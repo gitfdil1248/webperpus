@@ -1,0 +1,8 @@
+<th class="bg-primary text-light">Id Peminjaman</th>
+            <th class="bg-primary text-light">Id Buku</th>
+            <th class="bg-primary text-light">Judul Buku</th>
+            <th class="bg-primary text-light">Nisn Siswa</th>
+            <th class="bg-primary text-light">Nama siswa</th>
+            <th class="bg-primary text-light">Id Admin</th>
+            <th class="bg-primary text-light">Tanggal Peminjaman</th>
+            <th class="bg-primary text-light">Tanggal Pengembalian</th>
